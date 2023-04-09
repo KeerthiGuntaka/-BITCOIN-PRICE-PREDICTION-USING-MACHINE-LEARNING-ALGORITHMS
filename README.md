@@ -1,6 +1,6 @@
 # -BITCOIN-PRICE-PREDICTION-USING-MACHINE-LEARNING-ALGORITHMS
 
-# - PROBLEM DEFINITION
+# - Problem Definition
 
 Bitcoin is a cryptographic money which is utilized worldwide for advanced installment or basically for speculation purposes. Bitcoin is decentralized for example it isn't possessed by anybody. Exchanges made by Bitcoins are simple as they are not attached to any nation. Speculation should be possible through different commercial centers known as "bitcoin trades". These enable individuals to sell/purchase Bitcoins utilizing various monetary forms. The biggest Bitcoin trade is Mt Gox. Bitcoins are put away in an advanced wallet which is essentially similar to a virtual financial balance. The record of the considerable number of exchanges, the timestamp information is put away in a spot called Block chain. Each record in a block chain is known as a square. Each square contains a pointer to a past square of information. The information on block chain is scrambled. During exchanges the client's name isn't uncovered, however just their wallet ID is made open.
 
